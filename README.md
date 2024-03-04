@@ -27,7 +27,7 @@ To get started with this demonstration, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Navigate to the repository directory.
-3. [Add any additional setup instructions here, if applicable.]
+
 
    ![VPC Peering Architecture](ss3.png)
 
@@ -37,6 +37,8 @@ Follow these steps to set up VPC peering between two VPCs:
 
 1. **Create VPCs**: 
    - Create two separate VPCs in your AWS account.
+
+     ![Apache Server up and running](ss2.png)
 
 2. **Create VPC Peering Connection**:
    - Navigate to the VPC Dashboard in the AWS Management Console.
@@ -54,6 +56,8 @@ Follow these steps to set up VPC peering between two VPCs:
 ## Testing Connectivity
 
 Once the VPC peering connection is established and route tables are updated, test connectivity between instances in the peered VPCs.
+
+![Connection Test](ss1.png)
 
 ## Contributing
 
