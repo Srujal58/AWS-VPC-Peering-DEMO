@@ -29,6 +29,8 @@ To get started with this demonstration, follow these steps:
 2. Navigate to the repository directory.
 3. [Add any additional setup instructions here, if applicable.]
 
+   ![VPC Peering Architecture](ss3.png)
+
 ## Setting Up VPC Peering
 
 Follow these steps to set up VPC peering between two VPCs:
